@@ -1,0 +1,7 @@
+.o_main_navbar {
+    background: brown !important;
+}
+
+.o_main_navbar .o_menu_sections .o_nav_entry, .o_main_navbar .o_menu_sections .dropdown-toggle {
+     background: brown !important;
+}
